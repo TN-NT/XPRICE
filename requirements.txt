@@ -1,0 +1,9 @@
+terminaltables
+colorama
+requests
+colorama
+os
+ctypes
+fore
+webbrowser
+urllib.request
